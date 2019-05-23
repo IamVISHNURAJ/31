@@ -7,7 +7,7 @@ int main()
     gets(a);
     for(i=0;a[i]!='\0';i++)
     {
-    if(s[i]!=' ')
+    if(a[i]!=' ')
     {
         flagt++;
     }
